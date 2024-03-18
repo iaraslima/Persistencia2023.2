@@ -1,0 +1,280 @@
+LIVRO REDES DE COMPUTADORES
+
+AUTORES
+Ricardo Tombesi Macedo
+Roberto Franciscatto
+Guilherme Bernardino da Cunha
+Cristiano Bertolini
+
+Parte da seção 1.2
+
+USO DAS REDES DE COMPUTADORES
+As redes de computadores são empregadas para potencializar diversas atividades
+cotidianas das pessoas. Esta seção apresenta um panorama das principais áreas
+em que as redes de computadores são utilizadas. Os subitens abaixo abordam as
+finalidades comerciais e as finalidades domésticas, além de abordar a necessidade de mobilidade.
+Finalidades Comerciais
+O advento das redes de computadores proporcionou a exploração de novos nichos de mercado, pois as mesmas possibilitaram solucionar desafios existentes no
+modelo tradicional de comércio. Antes do surgimento das tecnologias em redes,
+um dos modelos mais empregados em transações comerciais se baseava na dependência de um local físico para atender os clientes e disponibilizar os produtos
+e/ou serviços. Com o surgimento das redes de computadores, muitos empresários
+visionários identificaram a oportunidade de quebrar este paradigma. As tecnologias de redes possibilitaram a flexibilização em relação à dependência de um local
+físico. Por meio desta inovação as empresas poderiam, por exemplo, oferecer seus
+produtos e serviços através da rede, proporcionando um gerenciamento mais eficiente dos produtos em estoque e aumentando a disponibilidade de atendimento
+aos clientes. A identificação deste potencial contribuiu para investimentos consideráveis para criação de uma infraestrutura de rede em escala global capaz de
+disponibilizar plataformas de comércio eletrônico.
+
+ATEnção: além do comércio eletrônico, as redes de
+computadores também geraram benefícios em relação
+ao compartilhamento de recursos e à comunicação entre
+funcionários.
+
+Os recursos disponíveis em uma rede de computadores podem ser classificados como físicos e lógicos. Os recursos físicos compreendem os dispositivos de
+armazenamento, impressoras e unidades de processamento, ou seja, tudo o que
+pode ser tocado pelo ser humano. Os recursos lógicos consistem em tudo aquilo
+que não pode ser tocado, como, por exemplo, os dados e os programas disponíveis nos computadores.
+A capacidade de compartilhamento de recursos por meio de uma rede representa um impacto positivo muito relevante. A aquisição de recursos físicos resulta
+em custos financeiros para as empresas. Alguns recursos físicos podem ter um
+custo financeiro moderado, como, por exemplo, uma impressora. Todavia, recursos físicos tais como um sistema de armazenamento de dados de alta capacidade possui um alto custo financeiro, agravando a situação. Como as instituições comerciais são concebidas visando o lucro, as despesas financeiras tendem a ser
+minimizadas. O surgimento das redes de computadores possibilitou a criação
+de estratégias para minimizar as despesas com recursos físicos ao possibilitar o
+seu compartilhamento. Seguindo esta abordagem, as empresas poderiam adquirir, por exemplo, uma impressora e compartilhá-la para todos seus funcionários.
+Com o compartilhamento de recursos físicos, as redes de computadores possibilitam a minimização de custos financeiros, representando um importante ponto
+positivo para sua adoção nas empresas.
+O compartilhamento de recursos lógicos resultou em benefícios ainda mais
+significativos para as empresas. As informações compreendem em um dos ativos
+mais importantes para as empresas. A carteira de clientes, os registros fiscais, as
+estratégias de negócio e os dados de movimentação de estoque de uma empresa
+consistem em informações vitais para uma empresa. A digitalização destes dados
+e armazenamento em um computador possibilita a manipulação destas informações de modo mais eficiente, potencializado a forma como elas são gerenciadas.
+O advento das redes de computadores permitiu que diferentes computadores
+compartilhassem esses dados, possibilitando uma sincronização entre as diferentes entidades responsáveis por manipular estes dados. Por exemplo, através do
+compartilhamento das informações de estoque, sempre que a entidade de um
+sistema responsável por efetuar uma venda, automaticamente o saldo atual do
+produto será atualizado para as demais entidades envolvidas no sistema.
+As redes de computadores também potencializaram a forma como os funcionários se comunicam. Algumas empresas desempenham partes de suas atividades ou até mesmo serviços com base na dependência da comunicação de um
+funcionário com uma base de operação. Por exemplo, uma empresa com uma
+frota de caminhões necessita da comunicação dos motoristas com uma base de
+operações capazes de solucionar eventuais problemas durante suas viagens. O
+mesmo ocorre com empresas prestadoras de serviços técnicos de atendimento
+a domicílio, pois o técnico geralmente opera no exterior da empresa e necessita
+interagir com uma base de operações para obter informações sobre os clientes a
+serem atendidos e para finalizar ordens de serviço. Considerando o contexto das
+redes de computadores, muitos serviços e tecnologias de comunicação foram desenvolvidos, tais como o serviço de correio eletrônico e a voz sob IP (VoIP).
+
+ATEnção: estes serviços e tecnologias são comumente
+utilizados para possibilitar a comunicação entre a base
+de operação e os funcionários que desempenham tarefas
+externas das empresas com um baixo custo financeiro
+utilizando como base as redes de computadores
+
+Finalidades Domésticas
+Muitas atividades domésticas também foram aprimoradas com o surgimento das
+redes de computadores. Os principais tipos de aplicações e serviços responsáveis
+por essa mudança podem ser organizadas em cinco categorias, sendo elas: (i)aplicações baseadas na interação entre pessoas e uma base de dados remota; (ii)
+serviços construídos para possibilitar a comunicação entre pessoas; (iii) comércio
+eletrônico; (iv) aplicações de entretenimento; e (v) serviços para Internet das Coisas. Cada uma destas categorias será detalhada na sequência.
+A principal característica das aplicações baseadas na interação entre pessoas e
+uma base de dados remota consiste na concentração de uma grande quantidade
+de dados disponibilizados por meio de servidores em uma rede de computadores. Um exemplo clássico deste tipo de aplicação consiste nas bibliotecas virtuais.
+Dentre estas bibliotecas, vale a pena mencionar o papel do portal de periódicos da
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Este portal
+consiste em uma biblioteca virtual que disponibiliza o acesso às mais notáveis produções científicas internacionais, inclusive da área da Computação. Outro exemplo de aplicação largamente utilizada consiste na Netflix. Por meio deste serviço,
+os usuários podem acessar um vasto acervo de vídeos, tais como filmes, séries e
+documentários, através de smartphones, smart TVs, computadores ou tablets.
+
+ATEnção: neste caso, existe o papel de um agente humano com
+interesses de realizar operações de consultas nestes dados e
+interagem com os servidores para alcançar este objetivo
+
+A segunda classe de aplicações com fins domésticos possibilitam a comunicação entre pessoas. O objetivo deste tipo de aplicação consiste em promover a interação entre pessoas. Esta categoria pode ser subdividida em redes sociais, mensagens
+instantâneas e edição colaborativa de textos. As redes sociais permitem que seus
+usuários criem perfis e estabeleçam relações sociais com os demais usuários, como,
+por exemplo, o Facebook. Os serviços de mensagens instantâneas possibilitam que
+usuários mantenham uma rede de contatos para trocar mensagens. Muitos destes serviços oferecem não apenas a possibilidade do envio de mensagens de texto,
+mas também suportam o envio de conteúdos multimídia, tais como, áudio, vídeo e
+imagens ou chamadas de voz ou vídeo. A ferramenta Skype e o aplicativo Whatsapp
+consistem em uma das aplicações mais utilizadas desta categoria. Os serviços de
+edição de textos colaborativos potencializam a criação de um texto com diversos
+autores. Uma das aplicações que implementa este conceito consiste nas wikis. Dentre as wikis existentes, a Wikipédia ocupa uma posição de destaque ao prover uma
+enciclopédia livre criada e editada por diversos usuários ao redor do mundo.
+As aplicações de comércio eletrônico possibilitaram a democratização na
+compra de produtos para usuários da Internet. Antes do surgimento desta classe
+de aplicações, as pessoas dependiam fortemente da visita física das lojas que vendiam os produtos do seu interesse. Com o comércio eletrônico, essa dependência
+foi eliminada, facilitando a aquisição e o pagamento de produtos por meio da infraestrutura da Internet. Como resultado, os usuários da Internet também tiveram
+acesso a um número muito maior de opções e produtos. Além disso, tornou-se
+fácil comparar os preços dos produtos praticados no mercado local dos usuários
+com aqueles oferecidos por lojas de diferentes regiões geográficas, possibilitando
+o pagamento de um preço mais justo pelos produtos. O Mercado Livre e o eBay
+constituem bons exemplos de serviços da classe de comércio eletrônico.
+A forma como as pessoas desempenham atividades de lazer foi aprimorada
+com o advento de aplicações voltadas ao entretenimento. As atividades de lazer
+mais praticadas por meio da Internet consistem nos jogos on-line, em assistir
+vídeos e escutar músicas. Jogos com suporte para múltiplos jogares conectados
+em diferentes regiões geográficas foram criados para explorar mundos virtuais
+criados com objetivos de entretenimento. Alguns destes jogos contam com plataformas auxiliares para possibilitar a interação entre seus usuários por meio de
+chats e chamadas de áudio. Escutar músicas e assistir filmes também se tornaram
+atividades de laser dos usuários em ambientes domésticos. Neste sentido, a forma
+de acesso ao conteúdo de áudio e vídeo evoluiu ao longo dos anos. Nos primórdios da Internet, o aplicativo Napster foi criado para possibilitar o compartilhamento de músicas ao empregar um modelo descentralizado de armazenamento.
+Este modelo possibilitava aos usuários enviar e compartilhar músicas ao mesmo
+tempo, sem a presença de um servidor centralizado. O nome deste modelo consiste em Peer-to-Peer (P2P) ou Par-a-Par e será explicado com mais detalhes no
+decorrer deste material. Apesar dos benefícios proporcionados aos usuários, o
+Napster infringia os direitos autorais das músicas e foi judicialmente encerrado.
+Atualmente, o serviço Spotify possibilita a criação de playlists de músicas e muitos
+outros recursos sem infringir os diretos autorais das músicas ao pagar royalties
+aos autores. A Netflix também emprega estratégias semelhantes ao disponibilizar
+filmes por meio da sua plataforma.
+A última classe de serviços e aplicações para usuários domésticos são projetados adotando o conceito de Internet das Coisas. Este novo conceito, também
+conhecido pela sigla IoT (do inglês, Internet of Things), surgiu como resultado de
+pesquisas no campo de redes sem fio modernas e assume que em um futuro próximo estaremos rodeados por uma larga quantidades de objetos (coisas) equipadas com interfaces de comunicação sem fio e unidades de processamento para
+melhorar a forma como são utilizadas. Essas coisas poderiam ser máquinas de
+lavar, cadeiras e até mesmo um lápis. Estes serviços poderiam prestar, por exemplo, serviços relacionados com os cuidados com a saúde das pessoas de uma casa
+ao coletar sinais vitais de um morador por intermédio de sensores localizados em
+sua camiseta, enquanto o mesmo assiste televisão. Apesar de que este cenário pareça um pouco assunto dos filmes de ficção científica, existe um esforço considerável da indústria para alcançarmos essa realidade em um futuro próximo. Podemos levemente perceber esse esforço ao observar que cada vez mais dispositivos
+dentro das nossas casas já possuem unidades de processamento e interfaces de
+comunicação sem fio, como por exemplo, as televisões e os smartphones.
+
+ATEnção: partindo deste princípio, novos serviços seriam
+concebidos explorando a conectividade entre estes objetos
+para potencializar diversas atividades cotidianas.
+
+LIVRO REDES DE COMPUTADORES
+
+AUTORES
+Ricardo Tombesi Macedo
+Roberto Franciscatto
+Guilherme Bernardino da Cunha
+Cristiano Bertolini
+
+Parte da seção 1.2
+
+USO DAS REDES DE COMPUTADORES
+As redes de computadores são empregadas para potencializar diversas atividades
+cotidianas das pessoas. Esta seção apresenta um panorama das principais áreas
+em que as redes de computadores são utilizadas. Os subitens abaixo abordam as
+finalidades comerciais e as finalidades domésticas, além de abordar a necessidade de mobilidade.
+Finalidades Comerciais
+O advento das redes de computadores proporcionou a exploração de novos nichos de mercado, pois as mesmas possibilitaram solucionar desafios existentes no
+modelo tradicional de comércio. Antes do surgimento das tecnologias em redes,
+um dos modelos mais empregados em transações comerciais se baseava na dependência de um local físico para atender os clientes e disponibilizar os produtos
+e/ou serviços. Com o surgimento das redes de computadores, muitos empresários
+visionários identificaram a oportunidade de quebrar este paradigma. As tecnologias de redes possibilitaram a flexibilização em relação à dependência de um local
+físico. Por meio desta inovação as empresas poderiam, por exemplo, oferecer seus
+produtos e serviços através da rede, proporcionando um gerenciamento mais eficiente dos produtos em estoque e aumentando a disponibilidade de atendimento
+aos clientes. A identificação deste potencial contribuiu para investimentos consideráveis para criação de uma infraestrutura de rede em escala global capaz de
+disponibilizar plataformas de comércio eletrônico.
+
+ATEnção: além do comércio eletrônico, as redes de
+computadores também geraram benefícios em relação
+ao compartilhamento de recursos e à comunicação entre
+funcionários.
+
+Os recursos disponíveis em uma rede de computadores podem ser classificados como físicos e lógicos. Os recursos físicos compreendem os dispositivos de
+armazenamento, impressoras e unidades de processamento, ou seja, tudo o que
+pode ser tocado pelo ser humano. Os recursos lógicos consistem em tudo aquilo
+que não pode ser tocado, como, por exemplo, os dados e os programas disponíveis nos computadores.
+A capacidade de compartilhamento de recursos por meio de uma rede representa um impacto positivo muito relevante. A aquisição de recursos físicos resulta
+em custos financeiros para as empresas. Alguns recursos físicos podem ter um
+custo financeiro moderado, como, por exemplo, uma impressora. Todavia, recursos físicos tais como um sistema de armazenamento de dados de alta capacidade possui um alto custo financeiro, agravando a situação. Como as instituições comerciais são concebidas visando o lucro, as despesas financeiras tendem a ser
+minimizadas. O surgimento das redes de computadores possibilitou a criação
+de estratégias para minimizar as despesas com recursos físicos ao possibilitar o
+seu compartilhamento. Seguindo esta abordagem, as empresas poderiam adquirir, por exemplo, uma impressora e compartilhá-la para todos seus funcionários.
+Com o compartilhamento de recursos físicos, as redes de computadores possibilitam a minimização de custos financeiros, representando um importante ponto
+positivo para sua adoção nas empresas.
+O compartilhamento de recursos lógicos resultou em benefícios ainda mais
+significativos para as empresas. As informações compreendem em um dos ativos
+mais importantes para as empresas. A carteira de clientes, os registros fiscais, as
+estratégias de negócio e os dados de movimentação de estoque de uma empresa
+consistem em informações vitais para uma empresa. A digitalização destes dados
+e armazenamento em um computador possibilita a manipulação destas informações de modo mais eficiente, potencializado a forma como elas são gerenciadas.
+O advento das redes de computadores permitiu que diferentes computadores
+compartilhassem esses dados, possibilitando uma sincronização entre as diferentes entidades responsáveis por manipular estes dados. Por exemplo, através do
+compartilhamento das informações de estoque, sempre que a entidade de um
+sistema responsável por efetuar uma venda, automaticamente o saldo atual do
+produto será atualizado para as demais entidades envolvidas no sistema.
+As redes de computadores também potencializaram a forma como os funcionários se comunicam. Algumas empresas desempenham partes de suas atividades ou até mesmo serviços com base na dependência da comunicação de um
+funcionário com uma base de operação. Por exemplo, uma empresa com uma
+frota de caminhões necessita da comunicação dos motoristas com uma base de
+operações capazes de solucionar eventuais problemas durante suas viagens. O
+mesmo ocorre com empresas prestadoras de serviços técnicos de atendimento
+a domicílio, pois o técnico geralmente opera no exterior da empresa e necessita
+interagir com uma base de operações para obter informações sobre os clientes a
+serem atendidos e para finalizar ordens de serviço. Considerando o contexto das
+redes de computadores, muitos serviços e tecnologias de comunicação foram desenvolvidos, tais como o serviço de correio eletrônico e a voz sob IP (VoIP).
+
+ATEnção: estes serviços e tecnologias são comumente
+utilizados para possibilitar a comunicação entre a base
+de operação e os funcionários que desempenham tarefas
+externas das empresas com um baixo custo financeiro
+utilizando como base as redes de computadores
+
+Finalidades Domésticas
+Muitas atividades domésticas também foram aprimoradas com o surgimento das
+redes de computadores. Os principais tipos de aplicações e serviços responsáveis
+por essa mudança podem ser organizadas em cinco categorias, sendo elas: (i)aplicações baseadas na interação entre pessoas e uma base de dados remota; (ii)
+serviços construídos para possibilitar a comunicação entre pessoas; (iii) comércio
+eletrônico; (iv) aplicações de entretenimento; e (v) serviços para Internet das Coisas. Cada uma destas categorias será detalhada na sequência.
+A principal característica das aplicações baseadas na interação entre pessoas e
+uma base de dados remota consiste na concentração de uma grande quantidade
+de dados disponibilizados por meio de servidores em uma rede de computadores. Um exemplo clássico deste tipo de aplicação consiste nas bibliotecas virtuais.
+Dentre estas bibliotecas, vale a pena mencionar o papel do portal de periódicos da
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Este portal
+consiste em uma biblioteca virtual que disponibiliza o acesso às mais notáveis produções científicas internacionais, inclusive da área da Computação. Outro exemplo de aplicação largamente utilizada consiste na Netflix. Por meio deste serviço,
+os usuários podem acessar um vasto acervo de vídeos, tais como filmes, séries e
+documentários, através de smartphones, smart TVs, computadores ou tablets.
+
+ATEnção: neste caso, existe o papel de um agente humano com
+interesses de realizar operações de consultas nestes dados e
+interagem com os servidores para alcançar este objetivo
+
+A segunda classe de aplicações com fins domésticos possibilitam a comunicação entre pessoas. O objetivo deste tipo de aplicação consiste em promover a interação entre pessoas. Esta categoria pode ser subdividida em redes sociais, mensagens
+instantâneas e edição colaborativa de textos. As redes sociais permitem que seus
+usuários criem perfis e estabeleçam relações sociais com os demais usuários, como,
+por exemplo, o Facebook. Os serviços de mensagens instantâneas possibilitam que
+usuários mantenham uma rede de contatos para trocar mensagens. Muitos destes serviços oferecem não apenas a possibilidade do envio de mensagens de texto,
+mas também suportam o envio de conteúdos multimídia, tais como, áudio, vídeo e
+imagens ou chamadas de voz ou vídeo. A ferramenta Skype e o aplicativo Whatsapp
+consistem em uma das aplicações mais utilizadas desta categoria. Os serviços de
+edição de textos colaborativos potencializam a criação de um texto com diversos
+autores. Uma das aplicações que implementa este conceito consiste nas wikis. Dentre as wikis existentes, a Wikipédia ocupa uma posição de destaque ao prover uma
+enciclopédia livre criada e editada por diversos usuários ao redor do mundo.
+As aplicações de comércio eletrônico possibilitaram a democratização na
+compra de produtos para usuários da Internet. Antes do surgimento desta classe
+de aplicações, as pessoas dependiam fortemente da visita física das lojas que vendiam os produtos do seu interesse. Com o comércio eletrônico, essa dependência
+foi eliminada, facilitando a aquisição e o pagamento de produtos por meio da infraestrutura da Internet. Como resultado, os usuários da Internet também tiveram
+acesso a um número muito maior de opções e produtos. Além disso, tornou-se
+fácil comparar os preços dos produtos praticados no mercado local dos usuários
+com aqueles oferecidos por lojas de diferentes regiões geográficas, possibilitando
+o pagamento de um preço mais justo pelos produtos. O Mercado Livre e o eBay
+constituem bons exemplos de serviços da classe de comércio eletrônico.
+A forma como as pessoas desempenham atividades de lazer foi aprimorada
+com o advento de aplicações voltadas ao entretenimento. As atividades de lazer
+mais praticadas por meio da Internet consistem nos jogos on-line, em assistir
+vídeos e escutar músicas. Jogos com suporte para múltiplos jogares conectados
+em diferentes regiões geográficas foram criados para explorar mundos virtuais
+criados com objetivos de entretenimento. Alguns destes jogos contam com plataformas auxiliares para possibilitar a interação entre seus usuários por meio de
+chats e chamadas de áudio. Escutar músicas e assistir filmes também se tornaram
+atividades de laser dos usuários em ambientes domésticos. Neste sentido, a forma
+de acesso ao conteúdo de áudio e vídeo evoluiu ao longo dos anos. Nos primórdios da Internet, o aplicativo Napster foi criado para possibilitar o compartilhamento de músicas ao empregar um modelo descentralizado de armazenamento.
+Este modelo possibilitava aos usuários enviar e compartilhar músicas ao mesmo
+tempo, sem a presença de um servidor centralizado. O nome deste modelo consiste em Peer-to-Peer (P2P) ou Par-a-Par e será explicado com mais detalhes no
+decorrer deste material. Apesar dos benefícios proporcionados aos usuários, o
+Napster infringia os direitos autorais das músicas e foi judicialmente encerrado.
+Atualmente, o serviço Spotify possibilita a criação de playlists de músicas e muitos
+outros recursos sem infringir os diretos autorais das músicas ao pagar royalties
+aos autores. A Netflix também emprega estratégias semelhantes ao disponibilizar
+filmes por meio da sua plataforma.
+A última classe de serviços e aplicações para usuários domésticos são projetados adotando o conceito de Internet das Coisas. Este novo conceito, também
+conhecido pela sigla IoT (do inglês, Internet of Things), surgiu como resultado de
+pesquisas no campo de redes sem fio modernas e assume que em um futuro próximo estaremos rodeados por uma larga quantidades de objetos (coisas) equipadas com interfaces de comunicação sem fio e unidades de processamento para
+melhorar a forma como são utilizadas. Essas coisas poderiam ser máquinas de
+lavar, cadeiras e até mesmo um lápis. Estes serviços poderiam prestar, por exemplo, serviços relacionados com os cuidados com a saúde das pessoas de uma casa
+ao coletar sinais vitais de um morador por intermédio de sensores localizados em
+sua camiseta, enquanto o mesmo assiste televisão. Apesar de que este cenário pareça um pouco assunto dos filmes de ficção científica, existe um esforço considerável da indústria para alcançarmos essa realidade em um futuro próximo. Podemos levemente perceber esse esforço ao observar que cada vez mais dispositivos
+dentro das nossas casas já possuem unidades de processamento e interfaces de
+comunicação sem fio, como por exemplo, as televisões e os smartphones.
+
+ATEnção: partindo deste princípio, novos serviços seriam
+concebidos explorando a conectividade entre estes objetos
+para potencializar diversas atividades cotidianas.
+
