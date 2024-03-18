@@ -1,0 +1,8 @@
+--o código a seguir foi usado para criar a tabela produtos no PgAdmin--
+
+create table produtos(id serial constraint produtos_pk primary key,
+                      code varchar(15) unique,
+                      description varchar(50),
+                      price numeric(10, 2),
+                      quantity integer,
+                      date date);
